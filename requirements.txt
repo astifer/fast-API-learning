@@ -1,0 +1,7 @@
+datetime
+fastapi[all]
+pydantic
+sqlalchemy 
+alembic 
+psycopg2
+asyncpg

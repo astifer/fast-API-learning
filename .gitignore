@@ -1,0 +1,6 @@
+venv
+fastapi_course/
+.vscode
+
+__pycache__
+*.env
