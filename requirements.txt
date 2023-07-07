@@ -6,3 +6,5 @@ alembic
 psycopg2
 asyncpg
 redis
+fastapi_users
+
